@@ -1,1 +1,4 @@
 This is file1
+This is line2
+This is line3master
+This is line4
